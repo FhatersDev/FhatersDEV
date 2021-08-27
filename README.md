@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Martin 
 - 👀 I like to program
 - 🌱 I’m currently learning Java AND C++
-- 💞️ I’m looking to collaborate on LablyTeam
+- 💞️ LablyTeam member
 - 📫 Contact me by discord Martinp#6873
 
 <!---
